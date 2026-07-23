@@ -242,3 +242,9 @@ oficial de calidad del aire.
 
 El repositorio contiene un prototipo académico y experimental
 desarrollado con fines de investigación y comunicación científica.
+
+## Dashboard publicado
+
+El prototipo interactivo puede consultarse en:
+
+[Acceder al dashboard](https://proyecto-ambiental-cdmx-git.streamlit.app/)
