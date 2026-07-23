@@ -121,7 +121,7 @@ resultados/tablas/metricas_clasificacion_episodios.csv
 ### 1. Clonar el repositorio
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/MirandaPCamelo/proyecto-ambiental-cdmx.git
 ```
 
 Después entra a la carpeta:
@@ -129,9 +129,6 @@ Después entra a la carpeta:
 ```bash
 cd ProyAmbiental
 ```
-
-> Sustituir `URL_DEL_REPOSITORIO` por la dirección real del repositorio
-> de GitHub.
 
 ### 2. Crear un entorno virtual
 
