@@ -1,0 +1,59 @@
+# Entorno virtual
+.venv/
+venv/
+env/
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Visual Studio Code
+.vscode/
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Respaldos comprimidos
+*.zip
+*.rar
+*.7z
+
+# Variables privadas
+.env
+.streamlit/secrets.toml
+
+# Caché de Streamlit
+.streamlit/cache/
+
+# Datos originales y archivos geográficos pesados
+datos/
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.qmd
+*.gpkg
+*.xls
+*.xlsx
+
+# Modelos entrenados
+*.joblib
+
+# Datasets intermedios o pesados
+resultados/dataset_integrado_2024_2025.csv
+resultados/dataset_modelo_completo_2024_2025.csv
+resultados/predicciones_pm25_2025.csv
+resultados/clasificacion_episodios_2025.csv
